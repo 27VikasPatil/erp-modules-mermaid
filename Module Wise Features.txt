@@ -1,0 +1,787 @@
+1.	Marketing Management : Page No 70
+●	Campaigns:
+●	SMS & Email (Automated)
+●	WhatsApp API (Green Tick) (Automated)
+●	Performance Tracking
+●	Template Management ?
+●	Manage multiple campaigns at once
+●	Performance Tracking (Campaigns) 
+●	Upcoming Events 
+●	Company website campaigns and offers management
+●	Leads / Enquiries:
+●	Online lead Capture (Facebook, Google Ads, Instagram, LinkedIn, etc.)
+●	Offline lead Capture (Referral Leads, Phone Call, Walk Ins, Exhibitions, Events, etc.)
+●	Third party Integration (Justdial, Indiamart, Exporter India, GeM, Tender 24/7, etc.)
+●	Real Time Lead Fetching in the ERP System  ??
+●	Lead Score
+●	Role Based Permission
+●	Automated Lead Distribution to sales team (Field sales and E-sales separately) (Lead Assign, Lead Reassign, Lead Ageing, etc.)
+●	Deals:
+●	Lead to Deal
+●	Follow up
+●	Negotiations
+●	Pricing Approvals as per roles
+●	Owners and Collaborators
+●	Quotation Management
+●	Create 
+●	Approval of quotation (Hierarchy Based)
+●	Quotation Sharing Options
+●	Price List Management
+●	Scheme workings
+●	Offers Management
+●	Employee wise rate structures
+●	Discount Structure
+●	Travel Plan & Visit Report
+●	Competitor’s data
+●	Budget & Targets
+●	ABP
+●	Employee Targets
+●	Partners Targets
+●	Budgets for all departments
+●	
+●	Agents
+●	ISD 
+●	Technicians
+●	Workers
+●	
+
+
+2.	Sales Management
+●	Customer Data
+●	Basic Detail (Name, Address, Contact, Tax, …Etc)
+●	Level Management (End User, Dealer, Distributors, Super Stockist, ..Etc)
+●	Login Credentials Management
+●	Geo Fencings
+●	User Assigned (Area wise or Direct) Maintain Hierarchy.
+●	
+●	Customer History
+●	Orders
+●	Sales Returns
+●	Service Calls
+●	Payments
+●	Credit Notes / Debit Notes
+●	Warranty details
+●	Stock Management
+●	Dispatches and Pickups (DR and PR)
+●	Visits
+●	Dealer Network
+●	Levels Management (End User, Dealer, Distributors, Super Stockist, ..Etc)
+●	Stock Reconciliation (Customized dates)
+●	BCC / NCC (Customized dates)
+●	
+●	Order Management 
+●	With Bill to and Ship to
+●	E way Bills
+●	Scheme Management
+●	Warranty Management
+●	Price Management
+●	Approvals
+●	Order Statuses
+●	Terms and conditions
+●	Payment site ( Overdues in Days and amount)
+●	Tax Management
+●	Schedule Management
+●	Warehouse management
+●	Route Planning
+●	Task Assignments
+●	
+●	Customer Feedback
+●	Ratings
+●	Suggestions
+●	Testimonials
+●	Ratios Analysis
+●	Feedback Forms
+●	
+●	E-Comm integration
+●	Website
+●	Flipkart
+●	Amazon
+●	Other E com platforms
+●	
+●	Pipeline 
+●	Pending Orders (For Material, Production)
+●	Pending Dispatches
+●	
+●	Price Groups
+●	Monthwise
+●	Scheme Wise
+●	Agents wise
+●	
+●	Sales Forecasting
+●	Ratios
+●	To be sales
+●	To be dispatches
+●	Turnover
+●	Outstandings
+●	Collections
+●	Purchase
+●	Historic Data for better forecasting
+●	TAT Analysis
+●	Manage Complete Order Cycle
+●	Order punch to W/m call done with Happy calling
+●	Level wise consumer reports
+●	End Users
+●	Dealers
+●	Distributors
+●	Super Stockiest
+●	Partners
+●	Warehouses
+●	Appointment Management
+●	Scheduling Appointment
+●	Task Managements
+●	Visits
+●	Follow ups
+●	Reports
+●	Employee Reporting
+●	Morning Meetings
+●	Evening Reports
+●	Task
+●	KPI 
+●	
+●	Email, SMS, Whatsapp & Notification
+●	As per process flow 
+●	Meetings and Rout Management
+●	Route plan
+	Route Optimization
+           Route Suggestion
+	Route assign
+●	Meetings Scheduling
+●	Meetings in term of new and existing customers
+●	Employee wise meeting monitored 
+●	Customer wise meeting can be tracked
+●	Customer wise discussion will be captured
+●	Meeting time expense and communication
+●	Alerts & Notification for upcoming meetings
+●	Meeting missed and reschedule
+●	Assign meeting to team member
+●	Schedule next follow up meeting
+●	List of meeting along with points of Discussion
+●	Number of meeting in day
+		
+
+3.	Procurement Management
+●	Supplier Database
+●	Basic Detail (Name, Address, Contact, Tax, …Etc)
+●	Categories (Local or Import)
+●	User Assign
+●	Procurement Plan
+●	Minimum stock levels
+●	As per Requisitions
+●	Periodically
+●	FG Real Stock Alerts
+●	According to BOM What Qty of FG Can Be generated
+●	Purchase Indent
+●	Supplier Selection
+●	Comparisons
+●	Compliances
+●	Sampling
+●	
+●	Purchase Order Management
+●	Purchase And Payment Trend (Total Purchase (Total Purchase - Debit Note) and Payments on an MoM basis.)
+●	Scheduling 
+●	Estimation
+●	
+●	Supply follow-up and tracking
+●	Follow up comments
+●	Live tracking
+●	Notification (If integrated with shipping line portals)
+●	Supplier’s evaluation.
+●	Quality
+●	Price
+●	Time punctuality
+●	Quantity
+●	Compliances
+●	Payment terms
+●	Requisitions
+●	For all departments
+●	Material
+	For Production / service
+	For Internal Use
+	For customers Demands
+●	Manpower
+●	Systems (Software)
+●	
+●	Material requirement planning (MRP)
+●	Quality assurance for purchased items
+●	
+
+4.	Supply chain Management
+●	Warehouse
+●	In words
+●	Outwords
+●	Distribution plan
+●	Dispatches
+●	Pickups
+●	Extra work
+●	Payments
+●	Route plan
+●	User assignment
+●	Route expenses (Driver expenses and vehicle expense)
+●	Total summarized details 
+●	Vehicle Tracking integration
+●	
+		
+●	Finish Goods /Parts Issue
+●	DRs
+●	
+●	Finished Goods/ Part Receipts
+●	Pickups
+●	Returns
+●	Stock
+●	As per warehouses
+●	Transport Management
+●	Route Plan
+●	Scheduling
+●	Assigning
+●	Tracking
+●	
+●	Inbound and outbound logistics tracking
+●	Risk management
+●	Insurance 
+●	PUC
+●	Traffic rules
+●	Fines
+●	
+●	Logistics and transportation management
+●	Third party vendors
+●	
+5.	Service Management
+●	Service Centre
+●	Location Based
+●	Agencies Based
+●	Indiusals
+●	Short terms and long terms tie ups
+●	Users Assignments (Company persons and tie ups persons )
+●	
+●	Warranty Management
+●	Customer details (As per customer data)
+●	Product Details ( Model, Serial Number, )
+●	Time duration (from date to upto)
+●	Documents attachments (Bill copy, Special approvals)
+●	Statuses
+●	Price Details
+●	Seller details
+●	Mode of payments
+●	Remarks
+
+
+●	Service call / Job
+●	Registration
+	Customer Details, Warranty details, Nature of Complaint, Location of LED, Remarks, 
+●	Verification
+●	Call / Job Assignment / Reassign
+		Spare part requisition
+		Spare part Issue
+		User Assign
+		Service center Assign
+		Visit Management
+		
+		
+		
+●	Completion
+		Photos and videos attachments
+		Remarks
+		Spare parts returns 
+		Payments
+		Returns (Rejections)
+●	Closing of call
+		Feedback call
+		Remarks
+		Call Payments Managements
+						Traveling Allowance
+●	
+	
+●	Spare Sales
+●	Service
+●	Sale
+●	Adjustment Issues
+●	
+●	Spare Stock
+●	Service Warehouse
+●	Material on Loan Reconciliations
+●	New material Requisitions
+●	Minimum and maximum level maintenance
+●	Issues
+●	Returns
+●	Adjustments
+●	
+●	Service Invoicing
+●	All details including discounts and offers
+●	Complaints Booking and Analysis
+●	Ratio Analysis
+●	Expenses analysis
+●	Task analysis
+●	KPI 
+
+
+●	Service part Requisition
+●	By Technician
+●	By office executive
+●	
+●	Returns management / Rejections 
+●	Pickups
+●	Handovers Managements
+●	Tracking
+●	Completions
+●	Returns
+●	Feedbacks
+●	
+●	Service level agreements (SLAs)
+●	Agreements and users
+●	Templates
+●	Periodic managements 
+●	Customer feedback and satisfaction tracking
+●	Forms
+●	Mails
+●	Massages
+●	Whatsapp
+●	Manual
+●	Videos
+●	Star ratings
+●	Categories
+●	
+●	Agent Assignment
+●	TAT Analysis
+
+6.	Engineering Management
+●	Product Configuration
+		Name, Shipment, Code, Type, Category, warranty, Status, Price details, Stock Details ( Unit, Minimum and max, tolerance, Warehouse racking details, Batch and serial number,
+●	Process Definition
+●	SOPs
+●	Documentations
+●	Bill of Material
+●	Raw Material Library - ?
+●	Tools & Accessories	
+●	Vehicle Management
+●	Vehicle Details
+●	Maintenance details
+●	Assigning Details
+●	Route Management
+●	Documents
+●	Insurance and PUC details / Passing details
+●	
+
+7.	Inventory Management
+●	Item Definition / Catalogs
+●	Name, Shipment, Code, Type, Category, warranty, Status, Price details, Stock Details ( Unit, Minimum and max, tolerance, Warehouse racking details, Batch and serial number,
+●	
+		
+●	Good Receipts / GRN
+●	Item Issue
+●	Against Sale
+	Finished Products
+	Spare Parts
+●	Against Service
+	Spare Parts
+	Replacements
+	New Serial numbers assignments
+●	Adjustment
+	Others
+●	Material Return
+●	Against Sale
+	Finished Products
+	Spare Parts
+●	Against Service
+	Spare Parts
+	Replacements
+	New Serial numbers assignments
+●	Adjustment
+	Others
+
+●	Damage Material
+●	Production / Rework
+●	Repair Work / Service 
+●	
+●	Stock Reconciliation
+●	As per Warehouses
+●	Dealer / Distributors End
+●	Departmental inventories
+●	Stock Transfer
+●	Within Warehouses
+●	Dept to Dept
+●	Stock Ledger
+●	In Words
+●	Outwords
+●	Productions
+●	DRs
+●	Pickups
+●	Current Status
+●	Warranties
+●	Customers
+●	Stock Statements
+●	ROL, ABC Analysis
+●	Stock Valuation
+●	Financial Statements Analysis
+●	Risk Factors
+●	Market Sentiment and Economic Conditions
+●	Material Forecast
+●	Historical Data Analysis
+●	time series analysis
+●	moving averages
+●	Market Trends and External Factors
+●	Stock statement
+●	Goods In (GRN, Adjustment,PR, ...Etc)
+●	Production
+●	Orders
+●	Warranties
+●	Service
+●	Goods Out (DR, Adjustment, Service, ….Etc)
+●	Serial number and batch tracking
+●	Production to Dismantle all tracking
+
+8.	Production Planning Management
+●	Production Plan
+●	Monthly Calendar
+●	Manual Plannings
+●	Job Assignments
+●	Product stock plannings
+●	Step wise Work delegations and users assignments
+●	Capacity Planning
+●	Target Assignments
+●	
+●	Material Requirement planning
+●	Requisitions
+●	Material Received Notes
+●	Material return managements
+●	
+●	Assembly plan
+●	SOPs
+●	Steps Generations
+●	Various BOM Generations
+●	Job Orders
+●	By Calendar Planning
+●	Manual Plannings
+●	By Orders 
+●	
+
+9.	Production Management
+●	Production line
+●	SOPs
+●	Steps Generations
+●	Various BOM Generations
+●	Daily Production
+●	Material In words reports
+●	Production Reports
+●	Rejection Managements and reports
+●	
+●	In-process Rejection / Rework
+●	Check Points
+●	Work Descriptions
+●	Attachments
+●	Approvals
+●	
+●	Production Status
+●	Machine Utilization
+●	Machine efficiency
+●	Work efficiency
+●	TAT Analysis
+●	Ideal Time Analysis
+●	Process Analysis
+●	Check points as per various stages
+●	Rejection Analysis
+●	Labor tracking and management
+
+
+
+10.	Quality Control Management
+●	Quality plan
+●	Check Points
+●	Analysis
+●	Reports
+●	Approvals
+●	Quality Specification
+●	Production
+●	Service
+●	Repair / Rework
+●	Inspection Process
+●	Pre procurement Inspection Managements
+●	Sample Pc Analysis
+●	
+●	Inspection / Test Data
+●	Rejection/ Rework Analysis
+●	Instrument / Tools Calibration
+●	Ownerships of materials and machines
+
+11.	Finance Management
+●	Invoice
+●	As per Order details
+●	Purchases
+●	As per PI
+●	Payment Note
+●	Payment Receipt
+●	Payment paid
+●	Accounts adjustments
+●	Debit/Credit Note
+●	Debit Note
+	Against Penalty
+	Any Other Transaction
+	
+●	Credit Note
+	Against Scheme
+	Against Offers
+	Against other transactions
+
+●	Budget
+●	ABP and 5 years Business Plan
+●	Dept wise budgets approval model
+●	Expenses and remaining Balances
+●	Achievements 
+●	Updation as per hierarchy approval
+●	Balance Sheet 
+●	Tax Compliances
+●	Expenses
+●	Expense report
+●	Approval workflow for expense
+●	Expense submission (With attachments)
+●	TA calculation on basis of mileage (Traveled distance in term of kilometer with milage provided as per profile)
+●	DA and other
+●	Upload and manage expense 
+●	Cash flow management
+●	forecasting
+●	As per Dept
+●	Sales
+●	Service
+●	Purchase
+●	Expenses
+●	Outstandings
+●	Payments 
+●	
+
+12.	HR Management
+●	Employee Data
+●	Basic Details 
+	Name , Address (Permanent and temporary address), Personal Contact details, Birth Date, Marital status, Gender, Bank details, Adhar Number, Pan Number, PF Number, UAN Number, Login Credentials, Documents Upload, Emergency Contact details	
+●	Job Details
+	Status, Emp ID, Department, Position, Reporting Person / Manager, Shift Time, Unit, Location, Monthly Salary, Annual Salary, Salary Deposit Type (Flat or %), Last Working day, Work Contact details,
+●	Joining Details
+	Hiring Date, Previous Employer, Contract Details
+●	Promotions
+	Department, Position, Benefits, Effective Date
+●	Salary Structure
+	Salary Change, Appraisal, Increment by special Approvals, Effective date
+●	Attendance
+	Clock In / Punch In, Clock Out / Punch Out, Regularization (Time Corrections), Regularisation Approvals, Timesheet, Calendar, Attendance rule Setup { Late rule (Hrs, Min), Calculate Average (Daily, Weekly, Monthly), No of days Late, Leave to be deducted(Full, Half), Leave Deduction (Leave Type, Flat Amount), Leave Deduction from(Leave Types)} {Early rule (Same fields as per late rule)}
+●	Employee Monitoring 
+				Live location, Active and inactive employees, Active 				sessions, Breaks, Ideal Sessions, 	
+●	Leave Management
+●	Holidays Management
+	Public Holidays, Events
+●	Leave types
+	Compensatory Off, Leave Without Pay, Sick Leave, Casual Leave, Earned Leave
+●	Submission of leave
+	Date, Reason, Leave Type, Alternate Person, 
+●	Hierarchy based Approval
+●	Pending Leaves
+●	Payroll
+●	Salary calculations
+	No Of Days
+	Incentives
+	Overtimes
+	Traveling Allowance
+	Late Marks
+	Penalties	
+	Other Earnings
+	Other Deductions
+●	Salary Structures
+●	Salary revisions and Increments
+●	Reimbursements
+●	Hierarchical Approval System
+●	Salary Slips
+●	Loans and Advances
+●	Statutory Compliances
+●	Paygroups Managements
+●	Earnings
+	Basic
+	TA
+	DA
+	Incentive
+	Overtime
+	Bonus
+●	Deductions
+	Penalties
+	Latemarks
+	Advances
+	Taxes
+	PF, ESIC, LWF, 
+	Others
+			
+●	Task Management
+	 Divisions - My Task, Team Task, Project Work, Overdue Task
+●	New Task Assignment and reassignments
+●	Task details Updation
+●	Task priorities updation
+●	Task status updation
+●	Task Due date updation
+●	New Attachments (Voice, Short videos, Documents)
+●	Comments posted on Task
+●	Overdue Task
+●	My Team (Team Members)
+●	Task Progress Tracker
+●	Productivity Dashboards
+●	Task reminders and notifiacations
+●	Task Categories (Create Task)
+	General
+	Work
+	Personal
+●	Task Statuses
+	Pending
+	In Process
+	Need Information
+	Rework
+	On Hold
+	Completed
+	Pending for Approval
+
+●	Evaluation Analysis / Performance appraisal
+●	Predefined KRA and KPI for Each Employee
+●	Assign Weightage to KRAs
+●	360 Degree Appraisals
+●	Performance appraisal report
+●	Escalation Matrix
+●	Tax Management
+●	TDS
+●	ESIC
+●	Insurance
+●	PF
+●	Labour welfare funds
+●	Others
+●	Activities 
+●	Activities Management (SMS, Meetings, Follow ups, Emails, visit, Call,...ETc)
+●	Activity Score
+●	Track Activities
+●	Activity Calendar 
+●	Activity Reports
+●	Reminders, Notifications and Alerts
+●	Daily Activity Report Employee Wise
+●	Upcoming Events 
+●	Linking Management
+●	Internal Announcements / Notices
+●	News
+●	Massages
+●	Management Decisions 
+●	Event / engagement activities Scheduled
+●	Location tracking
+●	Live Location (Current location)
+●	Route Map (Map Locator)
+●	Visits
+●	Application Tracking System (Resumes)
+●	Hiring Dashboards
+●	Candidate Requisition Requests
+●	Resumes Managements (Candidate Screening)
+●	Interviews and offer Managements
+●	On Boarding
+●	Internships
+●	Training and development
+		Review Management
+		Training sessions Calendar
+		Training Data Management
+		Feedback from Employees (Suggestion and queries)		
+●	HR analytics 
+		Reports and Dashboards
+●	Multi Level Approvals
+		Process flow wise approval system
+
+13.	MIS Reporting & Dashboard
+●	Marketing
+●	Procurement
+●	Subcontract
+●	Service
+●	Inventory
+●	Production
+●	Quality Control
+●	Finance
+●	Employee - HR
+●	HOD
+●	CEO
+●	Engineering Management
+●	Supply chain Management
+●	Sales
+●	Custom report generation
+●	Dashboards and KPI tracking
+●	Business performance monitoring
+
+Every module will have 10 Reports, details will be submitted in SRS. (With Filters and Export Option)
+14.	Mobile App
+●	For CEO
+●	For Sales Executive / Service / Supply Chain / Employees
+●	For HOD
+●	For Vendor
+●	For End Customer
+●	For Dealer/Distributor / Retailer
+●	Users
+15.	Portal
+●	For Sales Executive / Service / Supply Chain / Employees
+●	For HOD
+●	For Vendor
+●	For End Customer
+●	For Dealer / Distributor / Retailer
+●	Users
+
+16.	Integration
+●	Payment Gateways
+●	SMS
+●	Email
+●	WhatsApp
+●	Website
+●	Finance service providers
+●	Biometric Attendance
+●	Vehicle Management Platforms
+●	Transporters ( Ex. Shiprocket )
+●	As per demand
+●	Integration with external systems (e.g., CRM, eCommerce platforms, job Boards)
+●	API development and management
+●	Interoperability with third-party software
+
+17.	Settings Management
+●	Country
+●	State
+●	City
+●	Measuring Units
+●	Pcs.
+●	Nos.
+●	Sets
+●	Mtr
+●	Ltr
+●	Qty
+●	Kgs
+●	Document 
+●	Terms and Conditions
+●	Product brochures
+●	Forms Template formats
+●	Service documents
+●	
+●	Department
+●	Area
+●	Pincode
+●	Custom Fields
+●	In all modules
+●	Company Settings
+●	Manual settings 
+●	Types Management
+●	Leave 
+●	Service 
+●	Order 
+●	Payment
+●	Expense
+●	Activity 
+●	Target
+●	Product 
+●	Form view (Template) management
+●	
+
+18.	Administration Management
+●	User Group
+●	Units
+●	Departments
+●	User
+●	As Employee Data
+●	User Privileges
+ 		As per Job Roles and responsibilities, Job Description
+●	User logs (Audit trails and logs)
+●	Activity with Field name, Previous data and updated Data.
+●	In Filter View
+●	Role
+			RR and JD
+●	Organization Structure
+			Hierarchical Structure
+
